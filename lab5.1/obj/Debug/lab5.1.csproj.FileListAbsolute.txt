@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\навчання\OOn\лб5\lab5.1\bin\Debug\DrowLab5.exe.config
+C:\Users\Admin\Desktop\навчання\OOn\лб5\lab5.1\bin\Debug\DrowLab5.exe
+C:\Users\Admin\Desktop\навчання\OOn\лб5\lab5.1\bin\Debug\DrowLab5.pdb
+C:\Users\Admin\Desktop\навчання\OOn\лб5\lab5.1\obj\Debug\lab5.1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\навчання\OOn\лб5\lab5.1\obj\Debug\DrowLab5.Form1.resources
+C:\Users\Admin\Desktop\навчання\OOn\лб5\lab5.1\obj\Debug\DrowLab5.Properties.Resources.resources
+C:\Users\Admin\Desktop\навчання\OOn\лб5\lab5.1\obj\Debug\lab5.1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\навчання\OOn\лб5\lab5.1\obj\Debug\DrowLab5.exe
+C:\Users\Admin\Desktop\навчання\OOn\лб5\lab5.1\obj\Debug\DrowLab5.pdb

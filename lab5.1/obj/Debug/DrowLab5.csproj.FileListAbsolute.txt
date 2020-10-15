@@ -1,0 +1,10 @@
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\bin\Debug\DrowLab5.exe.config
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\bin\Debug\DrowLab5.exe
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\bin\Debug\DrowLab5.pdb
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\obj\Debug\DrowLab5.csprojAssemblyReference.cache
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\obj\Debug\DrowLab5.Form1.resources
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\obj\Debug\DrowLab5.Properties.Resources.resources
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\obj\Debug\DrowLab5.csproj.GenerateResource.cache
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\obj\Debug\DrowLab5.csproj.CoreCompileInputs.cache
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\obj\Debug\DrowLab5.exe
+C:\Users\maxbo\source\repos\DrowLab5\DrowLab5\obj\Debug\DrowLab5.pdb
